@@ -11,8 +11,8 @@
 #include <chrono>
 #include <cctype>
 
-#include "BinarySearchTree.h" // Δομή απλού δυαδικού δένδρου αναζήτησης
-#include "AVL_Tree.h" // Δομή δυαδικού δένδρου αναζήτησης τύπου AVL
+#include "Binary Search Tree/BinarySearchTree.h" // Δομή απλού δυαδικού δένδρου αναζήτησης
+#include "AVL Tree/AVL_Tree.h" // Δομή δυαδικού δένδρου αναζήτησης τύπου AVL
 
 #define Q_SIZE 1000 // Μέγεθος πίνακα απο όπου κάνω αναζήτηση
 #define NStoMS 0.000001 // Πολλαπλασιάζω με το NStoMS για να μετατρέψω τα nanoseconds σε milliseconds
